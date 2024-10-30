@@ -1,4 +1,4 @@
-package com.example.team4_pm_ejejjjejjejjsjssjsjsss
+package com.example.team4_pm_ejejjjejjejjsjssjsjsss.ej1
 
 /*Cada planeta tendrá un nombre, tipo –Rocoso o gaseoso- y una masa. */
 

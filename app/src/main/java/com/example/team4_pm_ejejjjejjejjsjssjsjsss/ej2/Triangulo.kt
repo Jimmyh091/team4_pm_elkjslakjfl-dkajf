@@ -1,4 +1,4 @@
-package com.example.team4_pm_ejejjjejjejjsjssjsjsss
+package com.example.team4_pm_ejejjjejjejjsjssjsjsss.ej2
 
 /*Crear la clase triangulo. Propiedades: longitud de los tres lados, perímetro,
 tipo de triángulo (isósceles, escaleno o equilátero). Implementar el método

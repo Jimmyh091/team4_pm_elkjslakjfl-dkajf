@@ -1,6 +1,7 @@
 package com.example.team4_pm_ejejjjejjejjsjssjsjsss
 
 fun main(){
+    /*
     val mercurio = Planeta("Mercurio", "Rocoso", 3.2f)
     val venus = Planeta("Venus", "Rocoso", 4.8f)
     val tierra = Planeta("Tierra", "Rocoso", 5.9f)
@@ -13,4 +14,9 @@ fun main(){
     println("La mayor masa es ${sistemaSolar.planetaMayor()}")
     println("La menor masa es ${sistemaSolar.planetaMenor()}")
     println("La masa media es ${sistemaSolar.masaMedia()}")
+    */
+    var a = 2
+
+    var linea: String
+    var b = if (readln().toIntOrNull() == null) 0 else 23
 }

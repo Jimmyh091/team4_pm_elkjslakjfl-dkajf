@@ -1,4 +1,4 @@
-package com.example.team4_pm_ejejjjejjejjsjssjsjsss
+package com.example.team4_pm_ejejjjejjejjsjssjsjsss.ej1
 
 /*Crea la clase sistema solar la cual tendrá una lista de planetas y los métodos .planetaMayor() que
 devuelve el planeta de mayor masa, .planetaMenor() que devuelve el planeta de menor
