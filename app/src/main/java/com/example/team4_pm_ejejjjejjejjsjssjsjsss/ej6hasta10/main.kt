@@ -37,4 +37,11 @@ fun main(){
     }
 
     // ej10
+    var masaTotal = 0.0
+    sistemaSolar.forEach{
+        masaTotal += it.masa
+    }
+    val media = masaTotal / sistemaSolar.size
+
+
 }

@@ -1,7 +1,10 @@
-package com.example.team4_pm_ejejjjejjejjsjssjsjsss
+package com.example.team4_pm_ejejjjejjejjsjssjsjsss.ej1
 
 fun main(){
     /*
+
+    ESTE ARCHIVO NO SE NI PA QUE SIRVE PERO LO DEJO PORQUE ME DA MIEDO BORRARLO Y TENER QUE HACERLO SI AL FINAL TENIA USO HOLA BUENOS DIAS
+
     val mercurio = Planeta("Mercurio", "Rocoso", 3.2f)
     val venus = Planeta("Venus", "Rocoso", 4.8f)
     val tierra = Planeta("Tierra", "Rocoso", 5.9f)
